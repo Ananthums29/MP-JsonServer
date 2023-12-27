@@ -1,0 +1,104 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Leo Trailer",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/75/Leo_%282023_Indian_film%29.jpg",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "2",
+      "caption": "Salaar Trailer",
+      "url": "https://i.pinimg.com/736x/f0/64/3f/f0643f638f85f73f878245ad84fd63bc.jpg",
+      "link": "https://www.youtube.com/embed/Pr2jBvbiy04"
+    },
+    {
+      "id": "3",
+      "caption": "React Tutorial",
+      "url": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+      "link": "https://www.youtube.com/embed/SqcY0GlETPk"
+    },
+    {
+      "id": "4",
+      "caption": "Javascript Tutorial",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&usqp=CAU",
+      "link": "https://www.youtube.com/embed/PkZNo7MFNFg"
+    },
+    {
+      "id": "5",
+      "caption": "Kalapakkara Song-'King of Kotha'",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_lfEes0vY3qkNo6mo_H04sSCUQe-8X5c6rg&usqp=CAU",
+      "link": "https://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "6",
+      "caption": "Kaavaalaa Song - 'Jailer'",
+      "url": "https://c.saavncdn.com/183/Kaavaalaa-From-Jailer-Tamil-2023-20230708073100-500x500.jpg",
+      "link": "https://www.youtube.com/embed/lM8h5Mm6ODo"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Javascript Tutorial",
+      "link": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "timeStamp": "12/27/2023, 09:42:40 AM",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Movie Trailers",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Leo Trailer",
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/75/Leo_%282023_Indian_film%29.jpg",
+          "link": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "2",
+          "caption": "Salaar Trailer",
+          "url": "https://i.pinimg.com/736x/f0/64/3f/f0643f638f85f73f878245ad84fd63bc.jpg",
+          "link": "https://www.youtube.com/embed/Pr2jBvbiy04"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Songs",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Kaavaalaa Song - 'Jailer'",
+          "url": "https://c.saavncdn.com/183/Kaavaalaa-From-Jailer-Tamil-2023-20230708073100-500x500.jpg",
+          "link": "https://www.youtube.com/embed/lM8h5Mm6ODo"
+        },
+        {
+          "id": "5",
+          "caption": "Kalapakkara Song-'King of Kotha'",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_lfEes0vY3qkNo6mo_H04sSCUQe-8X5c6rg&usqp=CAU",
+          "link": "https://www.youtube.com/embed/VzT2xurZrbI"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Programing Languages Tutorials",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "React Tutorial",
+          "url": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+          "link": "https://www.youtube.com/embed/SqcY0GlETPk"
+        },
+        {
+          "id": "4",
+          "caption": "Javascript Tutorial",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&usqp=CAU",
+          "link": "https://www.youtube.com/embed/PkZNo7MFNFg"
+        }
+      ]
+    }
+  ]
+}
